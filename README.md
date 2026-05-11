@@ -1,5 +1,4 @@
 # AI Scam Message & Fraud Detection System
-
 An AI-based web application that detects whether a message is safe or potentially fraudulent using keyword analysis.
 
 ## Features
